@@ -1,8 +1,4 @@
 import React from 'react'
-// import Content from './components/Content'
-// import Exercises from './components/Exercises'
-// import Header from './components/Header'
-
 
 const course = 'Half Stack application development'
   const part1 = 'Fundamentals of React'
